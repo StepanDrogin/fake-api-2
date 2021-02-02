@@ -100,47 +100,5 @@
       "name": "Электрооборудование",
       "article": "А22"
     }
-  ],
-    "lada": [
-    {
-      "image": "1.jpg",
-      "name": "Выхлопная система",
-      "price": "260",
-      "catalogNumber": "96189586",
-      "category": "Выхлопная система",
-      "article": "D1"
-    },
-    {
-      "image": "2.jpg",
-      "name": "Двигатель",
-      "price": "260",
-      "catalogNumber": "96189586",
-      "category": "Двигатель",
-      "article": "D2"
-    },
-    {
-      "image": "3.jpg",
-      "name": "Детали кузова",
-      "price": "260",
-      "catalogNumber": "96189586",
-      "category": "Детали кузова",
-      "article": "D3"
-    },
-    {
-      "image": "4.jpg",
-      "name": "Оптика и стекла",
-      "price": "260",
-      "catalogNumber": "96189586",
-      "category": "Оптика и стекла",
-      "article": "D4"
-    },
-    {
-      "image": "5.jpg",
-      "name": "Отделка салона",
-      "price": "260",
-      "catalogNumber": "96189586",
-      "category": "Отделка салона",
-      "article": "D5"
-    }
   ]
 }
