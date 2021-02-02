@@ -32,73 +32,83 @@
     },
     {
       "image": "7.jpg",
-      "name": "Отопление/кондиционирование",
+      "name": "Отопление",
       "article": "А9"
+    },
+        {
+      "image": "7.jpg",
+      "name": "кондиционирование",
+      "article": "А10"
     },
     {
       "image": "8.jpg",
       "name": "Ремни и ролики",
-      "article": "А10"
+      "article": "А11"
     },
     {
       "image": "9.jpg",
       "name": "Рулевая система",
-      "article": "А11"
+      "article": "А12"
     },
     {
       "image": "10.jpg",
       "name": "Система зажигания",
-      "article": "А12"
+      "article": "А13"
     },
     {
       "image": "11.jpg",
       "name": "Система охлаждения",
-      "article": "А13"
+      "article": "А14"
     },
     {
       "image": "12.jpg",
       "name": "Система питания",
-      "article": "А14"
+      "article": "А15"
     },
     {
       "image": "13.jpg",
-      "name": "Стеклоочистители/стеклоомыватели",
-      "article": "А15"
+      "name": "Стеклоочистители",
+      "article": "А16"
+    },
+        {
+      "image": "13.jpg",
+      "name": "стеклоомыватели",
+      "article": "А17"
     },
     {
       "image": "14.jpg",
       "name": "Стеклоподъемники",
-      "article": "А16"
+      "article": "А18"
     },
     {
       "image": "15.jpg",
       "name": "Сцепление",
-      "article": "А17"
+      "article": "А19"
     },
     {
       "image": "16.jpg",
       "name": "Трансмиссия",
-      "article": "А18"
+      "article": "A20"
     },
     {
       "image": "17.jpg",
       "name": "Тормозная система",
-      "article": "А19"
+      "article": "А21"
     },
     {
       "image": "18.jpg",
       "name": "Фильтра",
-      "article": "А20"
+      "article": "А22"
     },
     {
       "image": "19.jpg",
       "name": "Ходовая часть",
-      "article": "А21"
+      "article": "А23"
     },
     {
       "image": "20.jpg",
       "name": "Электрооборудование",
-      "article": "А22"
+      "article": "А24"
     }
   ]
 }
